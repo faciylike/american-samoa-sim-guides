@@ -1,2 +1,3 @@
 # american-samoa-sim-guides
-American Samoa SIM/phone card guides
+
+全球通信 README（占位）
