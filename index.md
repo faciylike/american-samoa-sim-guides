@@ -72,3 +72,10 @@ layout: default
 
 　　总之，在2025年前往美属萨摩亚，网络早已不是无法逾越的障碍。无论是选择传统的SIM卡还是拥抱eSIM，你都能找到适合自己的方式，让这段旅程与世界保持恰到好处的连接。现在，放心去规划你的热带冒险吧！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [American Samoa eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/american-samoa-data-plans)
